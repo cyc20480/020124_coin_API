@@ -68,7 +68,7 @@ class MainWindow(QMainWindow, form_class):  # 슬롯 클래스
         self.setupUi(self)  # ui 설정
         self.setWindowTitle('UPBIT 서버 코인 가격 VIEWER')  # 프로그램 타이틀 텍스트 설정
         self.setWindowIcon(QIcon('ui/BTC.png'))  # 아이콘 이미지 불러오기
-        self.statusBar().showMessage('ver 0.5')  # 프로그램 상태 표시줄 텍스트 설정
+        self.statusBar().showMessage('ver 0.8')  # 프로그램 상태 표시줄 텍스트 설정
         self.ticker = ticker
 
         self.apiThread = UpbitApiThread(self.ticker)  # 시그널 클래스(UpbitApiThread클래스)로 객체 선언
