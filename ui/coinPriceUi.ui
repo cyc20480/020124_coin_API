@@ -188,7 +188,7 @@ color: rgb(255, 255, 255);</string>
    <widget class="QLabel" name="label_8">
     <property name="geometry">
      <rect>
-      <x>240</x>
+      <x>280</x>
       <y>131</y>
       <width>91</width>
       <height>21</height>
@@ -212,7 +212,7 @@ color: rgb(255, 255, 255);</string>
    <widget class="QLabel" name="label_9">
     <property name="geometry">
      <rect>
-      <x>240</x>
+      <x>280</x>
       <y>155</y>
       <width>91</width>
       <height>21</height>
@@ -236,7 +236,7 @@ color: rgb(255, 255, 255);</string>
    <widget class="QLabel" name="label_10">
     <property name="geometry">
      <rect>
-      <x>240</x>
+      <x>280</x>
       <y>179</y>
       <width>81</width>
       <height>21</height>
@@ -262,7 +262,7 @@ color: rgb(255, 255, 255);</string>
      <rect>
       <x>135</x>
       <y>135</y>
-      <width>81</width>
+      <width>121</width>
       <height>16</height>
      </rect>
     </property>
@@ -275,7 +275,7 @@ color: rgb(255, 255, 255);</string>
      <rect>
       <x>136</x>
       <y>160</y>
-      <width>81</width>
+      <width>121</width>
       <height>16</height>
      </rect>
     </property>
@@ -288,7 +288,7 @@ color: rgb(255, 255, 255);</string>
      <rect>
       <x>136</x>
       <y>185</y>
-      <width>81</width>
+      <width>121</width>
       <height>16</height>
      </rect>
     </property>
@@ -299,9 +299,9 @@ color: rgb(255, 255, 255);</string>
    <widget class="QLabel" name="high_price_label">
     <property name="geometry">
      <rect>
-      <x>330</x>
+      <x>370</x>
       <y>136</y>
-      <width>81</width>
+      <width>101</width>
       <height>16</height>
      </rect>
     </property>
@@ -312,9 +312,9 @@ color: rgb(255, 255, 255);</string>
    <widget class="QLabel" name="low_price_label">
     <property name="geometry">
      <rect>
-      <x>330</x>
+      <x>370</x>
       <y>160</y>
-      <width>81</width>
+      <width>101</width>
       <height>16</height>
      </rect>
     </property>
@@ -325,9 +325,9 @@ color: rgb(255, 255, 255);</string>
    <widget class="QLabel" name="prev_closing_price_label">
     <property name="geometry">
      <rect>
-      <x>330</x>
+      <x>370</x>
       <y>183</y>
-      <width>81</width>
+      <width>91</width>
       <height>16</height>
      </rect>
     </property>
